@@ -1,0 +1,17 @@
+{
+  "name": "server_side_javascript",
+  "version": "1.0.0",
+  "description": "server side javascript tutorials",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jade": "^1.11.0",
+    "pug": "^2.0.0-rc.4",
+    "underscore": "^1.8.3"
+  }
+}
